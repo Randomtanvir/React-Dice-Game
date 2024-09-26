@@ -12,7 +12,7 @@ const PlayGame = ({ onClick }) => {
     "
     >
       <div>
-        <img src="/public/dices 1.png" alt="dice_img" />
+        <img src="/dices 1.png" alt="dice_img" />
       </div>
       <div
         className="
