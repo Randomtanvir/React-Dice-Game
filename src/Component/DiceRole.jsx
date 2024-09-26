@@ -30,7 +30,7 @@ const DiceRole = ({
       >
         <img
           onClick={rollDiceHndeler}
-          src={`/public/Dicess/dice_${rollDice}.png`}
+          src={`/Dicess/dice_${rollDice}.png`}
           alt=""
         />
         <p className="text-2xl text-black text-center">Click on Dice to roll</p>
